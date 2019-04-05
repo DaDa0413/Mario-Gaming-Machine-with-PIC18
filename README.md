@@ -55,11 +55,11 @@
 
 ![](https://i.imgur.com/hX8fFpe.jpg)
 
-**4.** **蜂鳴器、喇叭:**主旋律及和弦的播放。
+**4.** **蜂鳴器、喇叭:** 主旋律及和弦的播放。
 
 ![](https://i.imgur.com/5YiMCQY.jpg)
 
-**5.** **LED燈組：**以類似點矩陣的方式操縱Pin，用以解決PIC的腳位數不足的問題。
+**5.** **LED燈組：** 以類似點矩陣的方式操縱Pin，用以解決PIC的腳位數不足的問題。
 
 ![](https://i.imgur.com/uYycuqq.jpg) 
 
