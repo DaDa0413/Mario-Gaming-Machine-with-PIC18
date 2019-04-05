@@ -1,7 +1,4 @@
 # Mario-Gaming-Machine-with-PIC18
-> 題目名稱 : **鼓動吧~魔方!**
-## 動機
-
 ## 設備
     1. 4 * 4 * 4 LED 魔方 * 1
     2. PIC18F4520 * 3
@@ -51,11 +48,18 @@
 **1.** **PIC18F4520 * 3:** Master-Slave 技術之應用及實作。
 
 **2.** **陶瓷振盪感測器:** 擠壓陶瓷面導致電流導通。
+
 ![](https://i.imgur.com/X8eMWCL.jpg)
+
 **3.** **敲擊傳感器:** 透過晃動線圈來讓磁場產生變，並且產生應電流來回傳。
+
 ![](https://i.imgur.com/hX8fFpe.jpg)
+
 **4.** **蜂鳴器、喇叭:**主旋律及和弦的播放。
+
 ![](https://i.imgur.com/5YiMCQY.jpg)
+
 **5.** **LED燈組：**以類似點矩陣的方式操縱Pin，用以解決PIC的腳位數不足的問題。
+
 ![](https://i.imgur.com/uYycuqq.jpg) 
 
