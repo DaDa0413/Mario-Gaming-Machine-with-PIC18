@@ -1,4 +1,5 @@
 # Mario-Gaming-Machine-with-PIC18
+![](https://i.imgur.com/RNDQ86c.jpg)
 ## 設備
     1. 4 * 4 * 4 LED 魔方 * 1
     2. PIC18F4520 * 3
